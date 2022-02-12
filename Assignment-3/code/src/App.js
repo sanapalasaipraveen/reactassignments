@@ -11,6 +11,7 @@ var Emstatus = {
   3: 'rejected'
 }
 
+
 var appointment_details = {
   'customer_info': {
     'name': 'saipraveen',
