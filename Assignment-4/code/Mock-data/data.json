@@ -1,0 +1,26 @@
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://cdn.pixabay.com/photo/2019/05/29/14/30/cinque-terre-4237666__340.jpg",
+            "date": 1600952200156
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://cdn.pixabay.com/photo/2021/12/19/03/51/tree-6880117__340.jpg",
+            "date": 1599952200156
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":71,
+            "description": "Sample Description for Post",
+            "PostImage": "https://cdn.pixabay.com/photo/2021/08/04/15/45/waterfall-6522033__340.jpg",
+            "date": 1519952200156
+            }
+            ]
+}
